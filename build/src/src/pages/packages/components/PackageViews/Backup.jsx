@@ -128,7 +128,7 @@ function Backup({ dnp }) {
         <div>
           <div className="subtle-header">DOWNLOAD BACKUP</div>
           <p>
-            Download a backup of the critical files of this package in you local
+            Download a backup of the critical files of this package in your local
             machine.
           </p>
           {url ? (
